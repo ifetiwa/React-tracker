@@ -1,2 +1,2 @@
 # React
-All my React Projects
+A React Projects
